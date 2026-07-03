@@ -154,15 +154,15 @@ Project documentation is maintained throughout development.
 
 # 📈 Build in Public
 
-This repository documents the complete engineering journey—from planning and architecture to implementation, analysis, and deployment.
+This repository documents the complete journey; from planning and architecture to implementation, analysis, and deployment.
 
 The goal is not simply to build a dashboard, but to demonstrate how a professional data analytics project evolves from an idea into a production-ready analytics platform.
 
 Progress is shared regularly through:
 
-- LinkedIn
-- Medium
-- X (Twitter)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/marydiana-njoroge-41b236244/)
+- Medium["https://medium.com/@njorogediana236"]
+- X (Twitter) https://x.com/njerinjoroge_
 
 ---
 
