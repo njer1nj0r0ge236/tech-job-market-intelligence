@@ -160,7 +160,7 @@ The goal is not simply to build a dashboard, but to demonstrate how a profession
 
 Progress is shared regularly through:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/marydiana-njoroge-41b236244/)
+- [![LinkedIn](https://img.shields.io/badge/logo=linkedin)](https://www.linkedin.com/in/marydiana-njoroge-41b236244/)
 - Medium["https://medium.com/@njorogediana236"]
 - X (Twitter) https://x.com/njerinjoroge_
 
