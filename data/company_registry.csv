@@ -1,0 +1,52 @@
+company,sector,headquarters,kenya_operations,careers_url,ats,collector,priority,status,notes
+M-KOPA,FinTech,United Kingdom,Yes,https://www.m-kopa.com/careers,Ashby,ashby,5,Verified,Primary Ashby target
+Andela,Talent Marketplace,United States,Yes,https://www.andela.com/careers,Ashby,ashby,5,Verified,Engineering hiring
+Sama,AI/Data,United States,Yes,https://www.sama.com/careers,Greenhouse,greenhouse,5,Verified,Nairobi hiring
+CloudFactory,Talent Marketplace,United Kingdom,Yes,https://www.cloudfactory.com/careers,Greenhouse,greenhouse,4,Verified,Remote hiring
+Safaricom,Telecommunications,Kenya,Yes,https://www.safaricom.co.ke/careers,Custom,custom,5,Verified,Needs custom collector
+KCB Group,Banking,Kenya,Yes,https://ke.kcbgroup.com/about-us/careers,Custom,custom,5,Verified,Enterprise recruitment portal
+One Acre Fund,Agritech,United States,Yes,https://oneacrefund.org/careers,Custom,custom,5,Verified,Own recruitment platform
+Microsoft ADC,Technology,United States,Yes,https://www.microsoft.com/en-us/madc/join-us,Custom,custom,5,Verified,Nairobi engineering hub
+Google Kenya,Technology,United States,Yes,https://careers.google.com,Custom,custom,5,Verified,Google careers
+Amazon Web Services,Cloud Computing,United States,Yes,https://www.amazon.jobs,Custom,custom,5,Verified,AWS hiring
+Oracle Kenya,Enterprise Software,United States,Yes,https://careers.oracle.com,Custom,custom,4,Verified,Oracle recruiting
+IBM Research Africa,Research,United States,Yes,https://www.ibm.com/careers,Custom,custom,4,Verified,Research and engineering
+Cisco Kenya,Networking,United States,Yes,https://jobs.cisco.com,Custom,custom,4,Verified,Networking roles
+Ericsson Kenya,Telecommunications,Sweden,Yes,https://www.ericsson.com/en/careers,Custom,custom,4,Verified,Telecom engineering
+Visa,FinTech,United States,Yes,https://corporate.visa.com/en/careers.html,Custom,custom,4,Verified,Payments technology
+Mastercard Foundation,Foundation,Canada,Yes,https://mastercardfdn.org/careers,Custom,custom,4,Verified,Digital transformation roles
+Standard Chartered,Banking,United Kingdom,Yes,https://www.sc.com/en/global-careers,Custom,custom,4,Verified,Technology hiring
+Absa Kenya,Banking,South Africa,Yes,https://absa.africa/absaafrica/careers,Custom,custom,4,Verified,Banking technology
+Equity Group,Banking,Kenya,Yes,https://equitygroupholdings.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+NCBA,Banking,Kenya,Yes,https://ke.ncbagroup.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
+Cellulant,FinTech,Kenya,Yes,https://www.cellulant.io/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+Onafriq,FinTech,South Africa,Yes,https://www.onafriq.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+Flutterwave,FinTech,Nigeria,Yes,https://www.flutterwave.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+Pesapal,FinTech,Kenya,Yes,https://www.pesapal.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
+Wasoko,RetailTech,Kenya,Yes,https://www.wasoko.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+Twiga Foods,Agritech,Kenya,Yes,https://www.twiga.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+MarketForce,RetailTech,Kenya,Yes,https://marketforce.io/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+Airtel Kenya,Telecommunications,India,Yes,https://www.airtel.africa/careers,Unknown,unknown,4,Needs Verification,Identify ATS
+Ilara Health,HealthTech,Kenya,Yes,https://www.ilarahealth.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+MYDAWA,HealthTech,Kenya,Yes,https://www.mydawa.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
+Apollo Agriculture,Agritech,Kenya,Yes,https://www.apolloagriculture.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
+Moringa School,EdTech,Kenya,Yes,https://moringaschool.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
+Eneza Education,EdTech,Kenya,Yes,https://enezaeducation.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
+Amini,ClimateTech,Kenya,Yes,https://www.amini.ai/careers,Unknown,unknown,5,Needs Verification,Climate AI startup
+SunCulture,CleanTech,Kenya,Yes,https://sunculture.io/careers,Unknown,unknown,5,Needs Verification,Solar technology
+Pula,Agricultural Insurance,Kenya,Yes,https://www.pula-advisors.com/careers,Unknown,unknown,5,Needs Verification,InsurTech
+Lami,InsurTech,Kenya,Yes,https://www.lami.world/careers,Unknown,unknown,5,Needs Verification,Insurance technology
+BasiGo,Mobility,Kenya,Yes,https://www.basigo.com/careers,Unknown,unknown,5,Needs Verification,Electric mobility
+MoKo Home,Retail Manufacturing,Kenya,Yes,https://www.mokohome.com/careers,Unknown,unknown,4,Needs Verification,Technology hiring
+Sendy,Logistics,Kenya,Yes,https://sendyit.com/careers,Unknown,unknown,5,Needs Verification,Logistics technology
+JUMO,FinTech,South Africa,Yes,https://jumo.world/careers,Greenhouse,greenhouse,5,Verified,Primary Greenhouse target
+Quantium,Data & Analytics,Australia,Yes,https://www.quantium.com/careers,Unknown,unknown,5,Needs Verification,Analytics consulting
+ALX Africa,EdTech,Pan Africa,Yes,https://www.alxafrica.com,Unknown,unknown,5,Needs Verification,Technology education
+Kenya Red Cross,NGO,Kenya,Yes,https://www.redcross.or.ke/careers,Unknown,unknown,4,Needs Verification,Digital transformation
+ICIPE,Research,Kenya,Yes,https://www.icipe.org/careers,Unknown,unknown,4,Needs Verification,Research institute
+International Livestock Research Institute,Research,Kenya,Yes,https://www.ilri.org/careers,Unknown,unknown,5,Needs Verification,Data & GIS
+BURN,ClimateTech,Kenya,Yes,https://burnstoves.com/careers,Unknown,unknown,5,Needs Verification,Clean energy
+KOKO Networks,ClimateTech,Kenya,Yes,https://kokonetworks.com/careers,Unknown,unknown,5,Needs Verification,Technology
+AZA Finance,FinTech,United Kingdom,Yes,https://azafinance.com/careers,Unknown,unknown,5,Needs Verification,Cross-border payments
+Moove,Mobility,Nigeria,Yes,https://moove.io/careers,Unknown,unknown,5,Needs Verification,Mobility startup
+CarePay,HealthTech,Netherlands,Yes,https://carepay.com/careers,Unknown,unknown,5,Needs Verification,Health technology
