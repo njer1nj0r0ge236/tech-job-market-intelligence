@@ -1,0 +1,9 @@
+ats,collector,client,parser,enabled,status,notes
+Greenhouse,greenhouse,GreenhouseClient,GreenhouseParser,TRUE,Working,Production-ready
+Ashby,ashby,AshbyClient,AshbyParser,FALSE,Research,GraphQL implementation pending
+Workable,workable,WorkableClient,WorkableParser,FALSE,Planned,Next connector
+BreezyHR,breezy,BreezyClient,BreezyParser,FALSE,Planned,Future connector
+BambooHR,bamboohr,BambooHRClient,BambooHRParser,FALSE,Research,Investigate careers endpoints
+Lever,lever,LeverClient,LeverParser,FALSE,Planned,Future connector
+SmartRecruiters,smartrecruiters,SmartRecruitersClient,SmartRecruitersParser,FALSE,Planned,Future connector
+Workday,workday,WorkdayClient,WorkdayParser,FALSE,Research,Complex implementation

@@ -1,52 +1,51 @@
-company,sector,headquarters,kenya_operations,careers_url,ats,collector,priority,status,notes
-M-KOPA,FinTech,United Kingdom,Yes,https://www.m-kopa.com/careers,Ashby,ashby,5,Verified,Primary Ashby target
-Andela,Talent Marketplace,United States,Yes,https://www.andela.com/careers,Ashby,ashby,5,Verified,Engineering hiring
-Sama,AI/Data,United States,Yes,https://www.sama.com/careers,Greenhouse,greenhouse,5,Verified,Nairobi hiring
-CloudFactory,Talent Marketplace,United Kingdom,Yes,https://www.cloudfactory.com/careers,Greenhouse,greenhouse,4,Verified,Remote hiring
-Safaricom,Telecommunications,Kenya,Yes,https://www.safaricom.co.ke/careers,Custom,custom,5,Verified,Needs custom collector
-KCB Group,Banking,Kenya,Yes,https://ke.kcbgroup.com/about-us/careers,Custom,custom,5,Verified,Enterprise recruitment portal
-One Acre Fund,Agritech,United States,Yes,https://oneacrefund.org/careers,Custom,custom,5,Verified,Own recruitment platform
-Microsoft ADC,Technology,United States,Yes,https://www.microsoft.com/en-us/madc/join-us,Custom,custom,5,Verified,Nairobi engineering hub
-Google Kenya,Technology,United States,Yes,https://careers.google.com,Custom,custom,5,Verified,Google careers
-Amazon Web Services,Cloud Computing,United States,Yes,https://www.amazon.jobs,Custom,custom,5,Verified,AWS hiring
-Oracle Kenya,Enterprise Software,United States,Yes,https://careers.oracle.com,Custom,custom,4,Verified,Oracle recruiting
-IBM Research Africa,Research,United States,Yes,https://www.ibm.com/careers,Custom,custom,4,Verified,Research and engineering
-Cisco Kenya,Networking,United States,Yes,https://jobs.cisco.com,Custom,custom,4,Verified,Networking roles
-Ericsson Kenya,Telecommunications,Sweden,Yes,https://www.ericsson.com/en/careers,Custom,custom,4,Verified,Telecom engineering
-Visa,FinTech,United States,Yes,https://corporate.visa.com/en/careers.html,Custom,custom,4,Verified,Payments technology
-Mastercard Foundation,Foundation,Canada,Yes,https://mastercardfdn.org/careers,Custom,custom,4,Verified,Digital transformation roles
-Standard Chartered,Banking,United Kingdom,Yes,https://www.sc.com/en/global-careers,Custom,custom,4,Verified,Technology hiring
-Absa Kenya,Banking,South Africa,Yes,https://absa.africa/absaafrica/careers,Custom,custom,4,Verified,Banking technology
-Equity Group,Banking,Kenya,Yes,https://equitygroupholdings.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-NCBA,Banking,Kenya,Yes,https://ke.ncbagroup.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
-Cellulant,FinTech,Kenya,Yes,https://www.cellulant.io/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-Onafriq,FinTech,South Africa,Yes,https://www.onafriq.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-Flutterwave,FinTech,Nigeria,Yes,https://www.flutterwave.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-Pesapal,FinTech,Kenya,Yes,https://www.pesapal.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
-Wasoko,RetailTech,Kenya,Yes,https://www.wasoko.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-Twiga Foods,Agritech,Kenya,Yes,https://www.twiga.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-MarketForce,RetailTech,Kenya,Yes,https://marketforce.io/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-Airtel Kenya,Telecommunications,India,Yes,https://www.airtel.africa/careers,Unknown,unknown,4,Needs Verification,Identify ATS
-Ilara Health,HealthTech,Kenya,Yes,https://www.ilarahealth.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-MYDAWA,HealthTech,Kenya,Yes,https://www.mydawa.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
-Apollo Agriculture,Agritech,Kenya,Yes,https://www.apolloagriculture.com/careers,Unknown,unknown,5,Needs Verification,Identify ATS
-Moringa School,EdTech,Kenya,Yes,https://moringaschool.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
-Eneza Education,EdTech,Kenya,Yes,https://enezaeducation.com/careers,Unknown,unknown,4,Needs Verification,Identify ATS
-Amini,ClimateTech,Kenya,Yes,https://www.amini.ai/careers,Unknown,unknown,5,Needs Verification,Climate AI startup
-SunCulture,CleanTech,Kenya,Yes,https://sunculture.io/careers,Unknown,unknown,5,Needs Verification,Solar technology
-Pula,Agricultural Insurance,Kenya,Yes,https://www.pula-advisors.com/careers,Unknown,unknown,5,Needs Verification,InsurTech
-Lami,InsurTech,Kenya,Yes,https://www.lami.world/careers,Unknown,unknown,5,Needs Verification,Insurance technology
-BasiGo,Mobility,Kenya,Yes,https://www.basigo.com/careers,Unknown,unknown,5,Needs Verification,Electric mobility
-MoKo Home,Retail Manufacturing,Kenya,Yes,https://www.mokohome.com/careers,Unknown,unknown,4,Needs Verification,Technology hiring
-Sendy,Logistics,Kenya,Yes,https://sendyit.com/careers,Unknown,unknown,5,Needs Verification,Logistics technology
-JUMO,FinTech,South Africa,Yes,https://jumo.world/careers,Greenhouse,greenhouse,5,Verified,Primary Greenhouse target
-Quantium,Data & Analytics,Australia,Yes,https://www.quantium.com/careers,Unknown,unknown,5,Needs Verification,Analytics consulting
-ALX Africa,EdTech,Pan Africa,Yes,https://www.alxafrica.com,Unknown,unknown,5,Needs Verification,Technology education
-Kenya Red Cross,NGO,Kenya,Yes,https://www.redcross.or.ke/careers,Unknown,unknown,4,Needs Verification,Digital transformation
-ICIPE,Research,Kenya,Yes,https://www.icipe.org/careers,Unknown,unknown,4,Needs Verification,Research institute
-International Livestock Research Institute,Research,Kenya,Yes,https://www.ilri.org/careers,Unknown,unknown,5,Needs Verification,Data & GIS
-BURN,ClimateTech,Kenya,Yes,https://burnstoves.com/careers,Unknown,unknown,5,Needs Verification,Clean energy
-KOKO Networks,ClimateTech,Kenya,Yes,https://kokonetworks.com/careers,Unknown,unknown,5,Needs Verification,Technology
-AZA Finance,FinTech,United Kingdom,Yes,https://azafinance.com/careers,Unknown,unknown,5,Needs Verification,Cross-border payments
-Moove,Mobility,Nigeria,Yes,https://moove.io/careers,Unknown,unknown,5,Needs Verification,Mobility startup
-CarePay,HealthTech,Netherlands,Yes,https://carepay.com/careers,Unknown,unknown,5,Needs Verification,Health technology
+company,sector,careers_url,ats,ats_identifier,enabled,status,notes
+JUMO,FinTech,https://job-boards.greenhouse.io/jumo,Greenhouse,jumo,TRUE,Verified,Working collector
+Sama,AI Services,https://job-boards.greenhouse.io/samainc,Greenhouse,samainc,TRUE,Verified,Corrected board token
+Acumen,Impact Investing,https://job-boards.greenhouse.io/acumen,Greenhouse,acumen,TRUE,Pending,
+ALX Africa,EdTech,https://job-boards.greenhouse.io/alxafrica,Greenhouse,alxafrica,TRUE,Pending,
+GiveDirectly,NGO,https://job-boards.greenhouse.io/givedirectly,Greenhouse,givedirectly,TRUE,Pending,
+Pharo Management,Education,https://job-boards.greenhouse.io/pharomanagement,Greenhouse,pharomanagement,TRUE,Pending,
+Moniepoint,FinTech,https://job-boards.greenhouse.io/moniepoint,Greenhouse,moniepoint,TRUE,Pending,
+ScanGroup,Marketing,https://job-boards.greenhouse.io/scangroup,Greenhouse,scangroup,TRUE,Pending,
+One Acre Fund,Agritech,https://job-boards.greenhouse.io/oafkenya,Greenhouse,oafkenya,TRUE,Verified,
+Educate!,EdTech,https://job-boards.greenhouse.io/educate,Greenhouse,educate,TRUE,Pending,
+Instiglio,Consulting,https://job-boards.greenhouse.io/instiglio,Greenhouse,instiglio,TRUE,Pending,
+Sand Technologies,AI,https://job-boards.greenhouse.io/sandtechholdingslimited,Greenhouse,sandtechholdingslimited,TRUE,Pending,
+Girl Effect,NGO,https://job-boards.greenhouse.io/girleffect,Greenhouse,girleffect,TRUE,Pending,
+HumanSignal,AI,https://job-boards.greenhouse.io/humansignal,Greenhouse,humansignal,TRUE,Pending,
+Agoda,Travel Tech,https://job-boards.greenhouse.io/agoda,Greenhouse,agoda,TRUE,Pending,
+Wikimedia,Open Source,https://job-boards.greenhouse.io/wikimedia,Greenhouse,wikimedia,TRUE,Pending,
+Mozilla,Software,https://job-boards.greenhouse.io/mozilla,Greenhouse,mozilla,TRUE,Pending,
+BitGo,Crypto,https://job-boards.greenhouse.io/bitgo,Greenhouse,bitgo,TRUE,Pending,
+GitLab,DevTools,https://job-boards.greenhouse.io/gitlab,Greenhouse,gitlab,TRUE,Pending,
+Known,Marketing,https://job-boards.greenhouse.io/known,Greenhouse,known,TRUE,Pending,
+Growe,FinTech,https://job-boards.greenhouse.io/growe,Greenhouse,growe,TRUE,Pending,
+Startale,Web3,https://job-boards.greenhouse.io/startale,Greenhouse,startale,TRUE,Pending,
+Straight Arrow News,Media,https://job-boards.greenhouse.io/straightarrownews,Greenhouse,straightarrownews,TRUE,Pending,
+Sporty Group,SportsTech,https://job-boards.greenhouse.io/sportygroup,Greenhouse,sportygroup,TRUE,Pending,
+Xapo,FinTech,https://job-boards.greenhouse.io/xapo61,Greenhouse,xapo61,TRUE,Pending,
+Nava PBC,HealthTech,https://job-boards.greenhouse.io/navapbc,Greenhouse,navapbc,TRUE,Pending,
+Canonical,Software,https://job-boards.greenhouse.io/canonical,Greenhouse,canonical,TRUE,Pending,
+CloudFactory,AI Services,https://apply.workable.com/cloudfactory/,Workable,cloudfactory,TRUE,Verified,
+Inkomoko,Business Services,https://apply.workable.com/inkomoko/,Workable,inkomoko,TRUE,Pending,
+Tatu City,Real Estate,https://apply.workable.com/tatucity/,Workable,tatucity,TRUE,Pending,
+Pavago,Remote Hiring,https://apply.workable.com/pavago,Workable,pavago,TRUE,Pending,
+OpenFn,Open Source,https://apply.workable.com/openfn/,Workable,openfn,TRUE,Pending,
+Human Intelligence,AI,https://apply.workable.com/humanintelligence/,Workable,humanintelligence,TRUE,Pending,
+Synnefa,Agritech,https://synnefa.breezy.hr/,BreezyHR,synnefa,TRUE,Pending,
+CDH,Healthcare,https://cdh.breezy.hr/,BreezyHR,cdh,TRUE,Pending,
+Mukuru,FinTech,https://mukuru.breezy.hr/,BreezyHR,mukuru,TRUE,Verified,
+Goal 3,NGO,https://goal-3.breezy.hr/,BreezyHR,goal-3,TRUE,Pending,
+Labor Mobility Partnerships,NGO,https://labor-mobility-partnerships.breezy.hr/,BreezyHR,labor-mobility-partnerships,TRUE,Pending,
+M-KOPA,FinTech,https://jobs.ashbyhq.com/M-KOPA,Ashby,M-KOPA,TRUE,Verified,
+FutureFit AI,AI,https://jobs.ashbyhq.com/futurefitai,Ashby,futurefitai,TRUE,Pending,
+Hopae,HRTech,https://jobs.ashbyhq.com/hopae,Ashby,hopae,TRUE,Pending,
+Scale Army,Career Services,https://jobs.ashbyhq.com/Scale%20Army%20Careers,Ashby,Scale Army Careers,TRUE,Pending,
+Mudflap,Logistics,https://www.mudflapinc.com/open-positions,Ashby,mudflapinc,TRUE,Pending,
+TalentSafari,HRTech,https://jobs.ashbyhq.com/talentsafari,Ashby,talentsafari,TRUE,Pending,
+Ello,EdTech,https://jobs.ashbyhq.com/ello,Ashby,ello,TRUE,Pending,
+Lua,AI,https://jobs.ashbyhq.com/lua,Ashby,lua,TRUE,Pending,
+Share,FinTech,https://jobs.ashbyhq.com/share,Ashby,share,TRUE,Pending,
+Kin,InsurTech,https://jobs.ashbyhq.com/kin,Ashby,kin,TRUE,Pending,
+Suno,AI,https://jobs.ashbyhq.com/suno,Ashby,suno,TRUE,Pending,
+Arlo,Technology,https://jobs.ashbyhq.com/arlo,Ashby,arlo,TRUE,Pending,
